@@ -14,6 +14,7 @@ It is provided here **for demonstration purposes** and to showcase the initial d
 - React Native
 - TypeScript  
 - Expo
+- Nativewind
 
 ### Development Tools 🧹
 - Prettier – Code formatting  
